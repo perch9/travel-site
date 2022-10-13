@@ -1,7 +1,7 @@
 * {
     background-color: #000;
-   margin: 0px;
-   padding: 0px;
+    margin: 0px;
+    padding: 0px;
 }
 
 
@@ -13,7 +13,7 @@
 .header {
     display: flex;
     align-items: center;
-    justify-content: space-between ;
+    justify-content: space-between;
     margin: 10px 100px
 }
 
@@ -66,7 +66,7 @@
     padding: 15px;
     text-decoration: none;
     color: #fff;
-    
+
 }
 
 .button-case>a {
@@ -99,7 +99,7 @@
 
 .main-page {
     display: flex;
-    justify-content: space-between ;
+    justify-content: space-between;
     position: relative;
 }
 
@@ -154,7 +154,7 @@
 }
 
 .block {
-    
+
     text-align: center;
     margin-right: 130px;
 }
@@ -204,7 +204,7 @@
 }
 
 .info-title {
-    background:none;
+    background: none;
     color: #fff;
     font-family: 'Nunito', sans-serif;
     font-size: 56px;
@@ -215,18 +215,18 @@
     border-top-style: solid;
     width: 582px;
     padding-top: 100px;
-    margin-top:350px ;
+    margin-top: 350px;
 }
 
 .info-subtitle {
-    background:none;
+    background: none;
     color: #fff;
     font-family: 'Nunito', sans-serif;
     font-size: 24px;
     font-weight: 600;
     margin-top: 170px;
     width: 600px;
-    
+
 }
 
 .down-part {
@@ -236,7 +236,7 @@
 }
 
 .company-info {
-    background:none;
+    background: none;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -250,7 +250,7 @@
 }
 
 .soc>img {
-    background:none;
+    background: none;
     filter: grayscale(1);
 }
 
@@ -263,7 +263,7 @@
 }
 
 .about-info {
-    background:none;
+    background: none;
     width: 15%;
     display: flex;
     flex-direction: column;
@@ -273,7 +273,7 @@
 }
 
 .Technical {
-    background:none;
+    background: none;
     text-decoration: none;
     color: #fff;
     font-family: 'Nunito', sans-serif;
@@ -282,7 +282,7 @@
 }
 
 .Other {
-    background:none;
+    background: none;
     text-decoration: none;
     color: #fff;
     font-family: 'Nunito', sans-serif;
@@ -296,7 +296,7 @@
     font-size: 24px;
     font-weight: 800;
     text-decoration: none;
-    background:none;
+    background: none;
 }
 
 .news {
@@ -305,12 +305,12 @@
     font-size: 24px;
     font-weight: 800;
     text-decoration: none;
-    background:none;
+    background: none;
 }
 
 .newsletter {
     position: relative;
-    background:none;
+    background: none;
     text-decoration: none;
     color: #fff;
     font-family: 'Nunito', sans-serif;
@@ -322,7 +322,7 @@
     align-items: flex-start;
     padding: 0px;
     gap: 20px;
-    
+
 }
 
 .down-part {
@@ -353,12 +353,12 @@
     font-size: 24px;
     font-weight: 800;
     text-decoration: none;
-    background:none;
+    background: none;
 }
 
 
 .place {
-    background:none;
+    background: none;
     text-decoration: none;
     color: #fff;
     font-family: 'Nunito', sans-serif;
@@ -367,7 +367,7 @@
 }
 
 .number {
-    background:none;
+    background: none;
     text-decoration: none;
     color: #fff;
     font-family: 'Nunito', sans-serif;
@@ -376,7 +376,7 @@
 }
 
 .email {
-    background:none;
+    background: none;
     text-decoration: none;
     color: #fff;
     font-family: 'Nunito', sans-serif;
